@@ -15,8 +15,6 @@ The goal of this analysis is to understand key factors influencing developer sal
 
 ## 📂 Project Structure
 - notebooks/stack_overflow_survey_analysis.ipynb – main analysis notebook
-- data/ – dataset (or source link)
-- images/ – visualizations
 
 ## 🔍 Analysis Steps
 - Data loading and initial exploration
@@ -36,5 +34,5 @@ The goal of this analysis is to understand key factors influencing developer sal
 
 ## 💡 Business Value
 - Helps understand current trends in the tech industry
-- Identifies востребованные технологии for developers
+- Identifies in-demand technologies for developers
 - Provides insights into salary drivers for better career decisions
